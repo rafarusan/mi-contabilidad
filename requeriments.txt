@@ -1,0 +1,5 @@
+streamlit
+dropbox
+google-generativeai
+firebase-admin
+pandas
